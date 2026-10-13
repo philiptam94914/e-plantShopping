@@ -1,6 +1,6 @@
-# Paradise Nursery
+# e-plantShopping
 
-Paradise Nursery is a plant-shopping demo built with React. Browse plants by category, add them to your cart, adjust quantities, and see the cart total.
+e-plantShopping is a plant-shopping demo built with React. Browse plants by category, add them to your cart, adjust quantities, and see the cart total.
 
 ## Features
 
